@@ -7,6 +7,9 @@ public class PracticeClass
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("Bye");
+		
+		System.out.println(10/2);
+		System.out.println(1+2);
 	}
 
 }
