@@ -10,6 +10,8 @@ public class PracticeClass
 		
 		System.out.println(10/2);
 		System.out.println(1+2);
+		
+		System.out.println("Update class 3rd time");
 	}
 
 }
